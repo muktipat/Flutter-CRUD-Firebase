@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "919097256774",
+    "project_id": "reverse-e134e",
+    "storage_bucket": "reverse-e134e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919097256774:android:a5461cb2db0c66a7979347",
+        "android_client_info": {
+          "package_name": "com.example.reverse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnhpajWqLJ85ZzpkgsCUpDsQqYnqWyOug"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
